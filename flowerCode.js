@@ -14,6 +14,4 @@ function playAudio() {
 
 
 document.addEventListener('DOMContentLoaded', () => {
-    // Example: Automatically play audio when page loads
-    // playAudio();
 });
